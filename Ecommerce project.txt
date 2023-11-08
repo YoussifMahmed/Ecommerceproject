@@ -1,0 +1,15 @@
+-------- Online Store ----------
+
+Team Members:
+1- youssif mohamed ahmed
+2- manal sayed ahmed 
+
+Features :
+
+--> products listing 
+--> login and sign up
+--> search for products
+--> shopping card : with click add to cart pruducts will be stored in cart
+--> reviews 
+--> cash out
+ 
