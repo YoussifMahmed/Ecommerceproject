@@ -1,0 +1,40 @@
+-------- Online Store ----------
+
+Functional Requirements: 
+
+1- User Authentication:
+--> Allow users to register and log in
+
+2- Shopping Cart:
+
+--> Enable users to add and remove items in their shopping cart.
+
+3- Order Processing:
+
+--> Facilitate a smooth checkout process with various payment options.
+--> Generate orders .
+
+4- Search:
+
+-->Implement a robust search functionality allowing users to search products based on different criteria (name, category, price range).
+
+
+Non-Functional Requirements:
+
+1- Performance:
+
+--> Ensure fast loading times for web pages.
+
+2- Security:
+
+--> When user enter wrong password or username will not be able to access our website
+
+3- Scalability:
+
+--> Plan for future growth by designing a system capable of handling a potential increase of up to 50% in users or products.
+--> Employ cloud services that allow easy scaling of resources.
+
+4- Reliability:
+
+-->Aim for a system uptime of at least 99%.
+-->Provide a contact point for users to report any issues and ensure prompt resolution.
